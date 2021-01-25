@@ -1,7 +1,7 @@
 # Bird Watching CSS
 
 ### Formål
-At eksperimentere med CSS, lærer den grundlæggende syntaksstrukturer og forstå cascading.
+At eksperimentere med CSS, få praktisk erfaring med den grundlæggende syntaksstrukturer og se cascading i action.
 
 ### Opgave
 *Du skal bruge din HTML-kode fra gruppe projektet Bird Watching Website.*<br> 
