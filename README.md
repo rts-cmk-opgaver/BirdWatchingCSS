@@ -23,6 +23,5 @@ I denne opgave skal du arbejde med nogle helt basale CSS. Det er vigtigt at du a
 * Juster elementerne (box-modellen)
 * Tilføj hover effekt til links i navigationen (Hover betyder at brugeren har ført musemarkøren hen over et element fx. et link)
 
-
-
+Happy Hacking
 
