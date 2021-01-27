@@ -12,7 +12,7 @@ At eksperimentere med CSS, få praktisk erfaring med den grundlæggende syntakss
 3. Sikre dig at referencen til index.css kommer efter referencen til det orginale stylesheet.
 
 ### Del 2
-I denne opgave skal du arbejde med nogle basale CSS. Det er vigtigt at du arbejder i `index.css`, altså det stylesheet du selv har oprettet. Opgaven er herefter fuldstændig fri og det er op til dig hvad du synes kunne være sjovt at prøve kræfter med i stylesheetet. Kniber det med fantasien, er herunder en liste over mulige emener du kan forsøge dig med. Listen er på ingen måde kronologisk, start med det du synes er mest interessant.
+I denne opgave skal du arbejde med helt basale CSS. Det er vigtigt at du arbejder i `index.css`, altså det stylesheet du selv har oprettet. Opgaven er herefter fuldstændig fri og det er op til dig hvad du synes kunne være sjovt at prøve kræfter med i stylesheetet. Kniber det med fantasien, er herunder en liste over mulige emener du kan forsøge dig med. Listen er på ingen måde kronologisk, start med det du synes er mest interessant.
 
 * Indsæt en nye baggrundsfarve
 * Eksperimenter med layoutets farver generelt
